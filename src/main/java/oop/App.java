@@ -46,6 +46,7 @@ public class App
         System.out.println("");
         System.out.println("Display person1 using toString() : " + person2.toString() );
         System.out.println("Display person1 using toString() : " + person2 );   // will call toString() on object
+        System.out.println(person1.toString());
 
         //TODO
         // Implement a toString( ) method in the Person class, and run this App again
